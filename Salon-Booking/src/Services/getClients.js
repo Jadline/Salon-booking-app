@@ -3,7 +3,7 @@ const BASE_URL = import.meta.env.VITE_BASE_URL;
 // const CLIENTS_URL = 'http://127.0.0.1:3000/api/v1/clients'
 export async function fetchClients(){
     try {
-          const response  = await axios.get(BASE_URL)
+          const response  = await axios.get(`${BASE_URL}/api/v1/clients`)
           console.log(response.data.data.clients)
           return response.data.data.clients
     }
