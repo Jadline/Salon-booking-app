@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "firstname": "Lindsay",
+    "lastname": "Walton",
+    "email": "lindsay.walton@example.com",
+    "phonenumber": "0712345678",
+    "preferredstylist": "Tom Cook",
+    "bookingDate": "2025-10-30",
+    "notes": "Hair coloring",
+    "status": "Attended"
+  },
+  {
+    "id": 2,
+    "firstname": "Courtney",
+    "lastname": "Henry",
+    "email": "courtney.henry@example.com",
+    "phonenumber": "0723456789",
+    "preferredstylist": "Whitney Francis",
+    "bookingDate": "2025-10-31",
+    "notes": "Manicure",
+    "status": "Non-Attended"
+  },
+  {
+    "id": 3,
+    "firstname": "Jacob",
+    "lastname": "Jones",
+    "email": "jacob.jones@example.com",
+    "phonenumber": "0734567890",
+    "preferredstylist": "Tom Cook",
+    "bookingDate": "2025-11-02",
+    "notes": "Haircut",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "firstname": "Leslie",
+    "lastname": "Alexander",
+    "email": "leslie.alexander@example.com",
+    "phonenumber": "0745678901",
+    "preferredstylist": "Whitney Francis",
+    "bookingDate": "2025-11-03",
+    "notes": "Pedicure",
+    "status": "Attended"
+  },
+  {
+    "id": 5,
+    "firstname": "Albert",
+    "lastname": "Flores",
+    "email": "albert.flores@example.com",
+    "phonenumber": "0756789012",
+    "preferredstylist": "Jenny Wilson",
+    "bookingDate": "2025-11-04",
+    "notes": "Facial treatment",
+    "status": "Canceled"
+  },
+  {
+    "id": 6,
+    "firstname": "Cameron",
+    "lastname": "Williamson",
+    "email": "cameron.williamson@example.com",
+    "phonenumber": "0767890123",
+    "preferredstylist": "Tom Cook",
+    "bookingDate": "2025-11-05",
+    "notes": "Beard trim",
+    "status": "Attended"
+  },
+  {
+    "id": 7,
+    "firstname": "Esther",
+    "lastname": "Howard",
+    "email": "esther.howard@example.com",
+    "phonenumber": "0778901234",
+    "preferredstylist": "Whitney Francis",
+    "bookingDate": "2025-11-06",
+    "notes": "Braiding",
+    "status": "Pending"
+  },
+  {
+    "id": 8,
+    "firstname": "Jerome",
+    "lastname": "Bell",
+    "email": "jerome.bell@example.com",
+    "phonenumber": "0789012345",
+    "preferredstylist": "Jenny Wilson",
+    "bookingDate": "2025-11-07",
+    "notes": "Massage session",
+    "status": "Non-Attended"
+  },
+  {
+    "id": 9,
+    "firstname": "Theresa",
+    "lastname": "Webb",
+    "email": "theresa.webb@example.com",
+    "phonenumber": "0790123456",
+    "preferredstylist": "Tom Cook",
+    "bookingDate": "2025-11-08",
+    "notes": "Hair highlights",
+    "status": "Attended"
+  },
+  {
+    "id": 10,
+    "firstname": "Floyd",
+    "lastname": "Miles",
+    "email": "floyd.miles@example.com",
+    "phonenumber": "0799876543",
+    "preferredstylist": "Whitney Francis",
+    "bookingDate": "2025-11-09",
+    "notes": "Shampoo & blow dry",
+    "status": "Pending"
+  }
+]
